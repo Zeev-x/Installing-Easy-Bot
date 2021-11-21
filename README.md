@@ -15,14 +15,26 @@ $ pkg install wget -y
 $ pkg install tesseract -y
 $ pkg install nmap
 $ pkg update && pkg upgrade
-$ git clone https://github.com/(nama project)
+$ git clone (link project github yang ingin di cloning)
 $ cd (nama project)
 $ bash install.sh
 $ npm start
 ```
 
 # Note 
-Jika ada yang fail,Bisa kamu ulangi sampai berhasil
+
+• Kamu juga bisa menggunakan link github saya yaitu:
+```
+https://github.com/Zeev-x/Zeev-Bot
+```
+Contoh penggunaan :
+```
+$ git clone https://github.com/Zeev-x/Zeev-Bot
+
+```
+• Jika ada yang fail,Bisa kamu ulangi sampai berhasil
+
+• Selamat mencoba 😉
 
 #
 ```
